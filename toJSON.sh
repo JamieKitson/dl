@@ -6,7 +6,7 @@ c=""
 for i in *.txt
 do
 
-    if [ -z "$d" ] 
+    if [ -n "$d" ] 
     then
         c=","
     fi

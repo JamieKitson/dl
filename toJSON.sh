@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo '['
-c=","
+c=""
 
 for i in *.txt
 do
